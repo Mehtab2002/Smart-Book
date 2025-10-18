@@ -2,7 +2,9 @@ import React from 'react'
 
 const Sidebar = () => {
   return (
-    <div>Sidebar</div>
+    <div>
+        I have created navbar.
+    </div>
   )
 }
 
