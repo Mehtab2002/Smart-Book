@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <nav>
       I am a navbar
-      how are you?
+      I have worked on testing branch.
     </nav>
   )
 }
