@@ -5,6 +5,8 @@ const Navbar = () => {
     <nav>
       I am a navbar
       I have worked on testing branch.
+      I will merge testing to main.
+      adding in testing to merge main
     </nav>
   )
 }
